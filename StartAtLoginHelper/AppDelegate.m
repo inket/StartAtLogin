@@ -46,8 +46,6 @@
     NSArray* bundleIdentifierComponents = [helperBundleIdentifier componentsSeparatedByString:@"-"];
     bundleIdentifierComponents = [bundleIdentifierComponents subarrayWithRange:NSMakeRange(0, bundleIdentifierComponents.count - 1)];
 
-    NSLog(@"%@", bundleIdentifierComponents);
-
     return [bundleIdentifierComponents componentsJoinedByString:@"-"];
 }
 
