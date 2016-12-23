@@ -1,6 +1,4 @@
-## StartAtLogin
-
-![](https://img.shields.io/badge/Carthage-supported-brightgreen.svg)
+## StartAtLogin ![](https://img.shields.io/badge/Carthage-supported-brightgreen.svg)
 
 StartAtLogin is a framework for Swift macOS apps looking to add a "Start at Login" feature with minimal work.
 
